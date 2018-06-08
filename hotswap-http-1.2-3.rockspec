@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "hotswap-http"
-version = "1.2-2"
+version = "1.2-3"
 
 -- LuaDist source
 source = {
-  tag = "1.2-2",
+  tag = "1.2-3",
   url = "git://github.com/LuaDist-testing/hotswap-http.git"
 }
 -- Original source
